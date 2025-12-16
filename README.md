@@ -65,14 +65,3 @@ Visit: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 - 🎨 **Modern UI**: Responsive, accessible, and clean front-end built with HTML/CSS.
 
 ---
-
-## 🔒 Deployment
-
-- This app is intended for **local use** or deployment on **oracleVM**.
-- also configured for Heroku or public cloud,.
-
----
-
-## 📄 License
-
-_This project does not use any license._
