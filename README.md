@@ -73,31 +73,6 @@ Visit: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ---
 
-## 👨‍💻 Contributors
-
-- Mani Jain (221648)  
-- Mansi Jain (2216049)  
-- Shruti Agarwal (2216077)
-
----
-
 ## 📄 License
 
-*This project does not use any license.*
-
----
-
-## 📸 Sample Use
-
-1. Open the home page (`index.html`)
-2. Upload a JPG/PNG image of a plant
-3. Get predictions + plant details in `result.html`
-
----
-
-## 🙌 Acknowledgements
-
-- Dataset preprocessing and training done prior to deployment
-
-
-> _"Empowering people to identify, learn, and explore the green world around them."_
+_This project does not use any license._
